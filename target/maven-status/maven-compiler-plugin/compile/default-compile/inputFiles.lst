@@ -1,0 +1,17 @@
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Orders.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Customer.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/OrderController.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/AddressRepository.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/ProductController.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Address.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/MembershipLevel.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Product.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/CustomerRepository.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/ProductRepository.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/CustomerController.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/App.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/ProductService.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/OrderStatus.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/CustomerService.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/OrderRepository.java
+/Users/caydenowens/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/OrderService.java
